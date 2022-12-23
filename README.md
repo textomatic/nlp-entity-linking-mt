@@ -18,7 +18,7 @@ nlp-entity-linking-mt
 
 ## Demo
 
-The Streamlit app is hosted on Streamlit Cloud. Visit link to view the data visualization of the analysis result.
+The Streamlit app is hosted on Streamlit Cloud. Visit [Streamlit](https://nlp-entity-linking-medical-transcriptions.streamlit.app) to view the data visualization of the analysis result.
   
 ## How to run this project
 
